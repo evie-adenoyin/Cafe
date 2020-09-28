@@ -1,2 +1,1 @@
-# Kivy
-Learning step by step on mobile app with Kivy
+ONline cafe store... Just used some random images so you can ignore them
